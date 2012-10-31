@@ -24,7 +24,7 @@
     <body class="wrapper">
         <header id="head"><h1 id="logo">fCalc</h1></header>  
         <div id="calculatrice"></div>
-        <footer id="foot">By Frantz DARIBO - Tous droits réservés.lol</footer>
+        <footer id="foot">By Frantz DARIBO - Tous droits réservés.</footer>
     </body>
 
     <script type="text/javascript">
